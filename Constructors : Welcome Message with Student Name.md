@@ -28,3 +28,7 @@ studentinstance.display_welcome(name)
 
 ## Result
 Thus the output is Verified.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
