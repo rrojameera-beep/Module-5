@@ -49,3 +49,7 @@ print(d.Mul(a,b))
 ## Result
 
 The multiple inheritence is verified successfully.
+
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
