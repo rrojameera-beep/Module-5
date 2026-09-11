@@ -62,3 +62,6 @@ print( Employee1.Employee_Details() , Employee1.Employee_check() )
 ## Result
 Thus the output is verified.
 
+NAME: HARISHANKAR E
+REG NO: 212223210007
+DATE: 11.9.2026
